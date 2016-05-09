@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Guess
+Name[zh_CN]=猜数字
+Comment=guess the correct number
+Comment[zh_CN]=根据提示猜出正确的数字
+Icon=/home/yujihui/cprogram/Guess/icon/window_icon.png
+Exec=/home/yujihui/cprogram/Guess/guess
+Terminal=false
+Type=Application
+Categories=Gnome;GTK;Game;
+StartupNotify=true;
